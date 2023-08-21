@@ -1,0 +1,7 @@
+{
+  "name": "BlogApp-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
